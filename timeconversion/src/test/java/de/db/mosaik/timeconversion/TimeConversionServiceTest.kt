@@ -1,4 +1,4 @@
-package de.db.mosaik.tdd
+package de.db.mosaik.timeconversion
 
 import org.junit.Test
 

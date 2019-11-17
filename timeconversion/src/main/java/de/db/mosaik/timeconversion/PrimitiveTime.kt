@@ -1,4 +1,4 @@
-package de.db.mosaik.tdd
+package de.db.mosaik.timeconversion
 
 data class PrimitiveTime (val hour: Int, val minute: Int = 0) {
 
