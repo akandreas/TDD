@@ -7,7 +7,7 @@ Folgende Anforderungen sind zu berücksichtigen:
  
 1. In England ist es eine Stunde früher als in Deutschland.
 2. In Deutschland wird das 24-Stunden (0-23), in England das 12-Stunden
-   Format verwendet. 
+   (0-11) Format verwendet. 
 3. Es muss der Tagesüberlauf (zwischen 0 und 1 Uhr) berücksichtigt
    werden.
  
